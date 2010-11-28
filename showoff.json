@@ -1,0 +1,8 @@
+{
+  "name": "Tribesports Software Development", 
+  "sections": [ 
+    {"section":"stories"},
+    {"section":"kanban"}
+  ]
+
+}

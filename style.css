@@ -1,0 +1,11 @@
+body {
+  padding-top:100px;
+  background-image:url('/file/images/bg_grey.gif') !important;
+  background-repeat: repeat;
+}
+#footer {
+  background-image:url('/file/images/bg_grey.gif') !important;
+  background-repeat: repeat;
+  color: #fff;
+}
+
