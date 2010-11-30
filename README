@@ -1,8 +1,10 @@
-= Tribesports Software Development
+Tribesports Software Development
+================================
 A series of presentations I am giving to the Tribesports team on the software development methodologies we use.
 
-== Viewing the presentation
-I wrote this presentation using showoff:
+Viewing the presentation
+------------------------
+This presentation uses showoff:
 
 https://github.com/schacon/showoff
 
