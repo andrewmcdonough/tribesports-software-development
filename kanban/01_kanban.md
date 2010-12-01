@@ -50,39 +50,39 @@
 
 !SLIDE
 # The Kanban - Icebox
-### Where a story starts. Might never actually be implemented. 
+## Where a story starts.<br/>Might never actually be implemented. 
 ## <img src='file/images/kanban-icebox.png' height='400'>
 
 !SLIDE
 # The Kanban - Backlog
-### Stories that are on their way to be developed.
+## Stories that are on their way to be developed.<br/><br/>
 ## <img src='file/images/kanban-backlog.png' height='400'>
 
 !SLIDE
 # The Kanban - Selected
-### Selected to be developed next. The only ones developers can choose.
+## Selected to be developed next.<br/>The only ones developers can choose to work on.
 ## <img src='file/images/kanban-selected.png' height='400'>
 
 !SLIDE
 # The Kanban - In Progress
-### Stories currently being worked on by the development team. 
+## Stories currently being worked on by the development team. 
 ## <img src='file/images/kanban-in-progress.png' height='400'>
 
 !SLIDE
 # The Kanban - Done
-### Stories that have been implemented, but aren't live yet.
+## Stories that have been implemented,<br/>but aren't live yet.
 ## <img src='file/images/kanban-done.png' height='400'>
 
 !SLIDE
 # The Kanban - Deployed
-### Stories that have been released to the production website.
+## Stories that have been released to the<br/>production website, tribesports.com
 ## <img src='file/images/kanban-deployed.png' height='400'>
 
 !SLIDE
 # The Kanban - Limited WIP
-## WIP = Work in Progress
+## **WIP:** Work in Progress
 ## Assign a maximum capacity to the columns
-## The capacity is dependent on the number of people working on the column
+## The capacity is dependent on the number of<br/>people working on the column
 
 !SLIDE
 # The Kanban - Limited WIP
@@ -93,18 +93,19 @@
 # The importance of "pull"
 ## Developers are not assigned stories
 ## They 'pull' stories from the selected column
-
+## Eliminates micromanagement
 
 !SLIDE bullets
-# The Kanban - Other possible columns
-## Design - (before in progress)
-## QA - Quality Assurance (after in progress, before done) 
+# Extending the Kanban - <br/> more possible columns
+
+## **Design** - (before "In Progress")
+## **QA** - Quality Assurance (before "Done") 
+## **Analysis** - (between "Icebox" and "Backlog")
 
 
 !SLIDE
 # Next Week - Cucumber
-### From Stories to Scenarios
-
+## Breaking a story up into scenarios
 
 !SLIDE
 #END
