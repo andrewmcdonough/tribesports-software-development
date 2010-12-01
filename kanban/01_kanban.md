@@ -79,6 +79,11 @@
 ## <img src='file/images/kanban-deployed.png' height='400'>
 
 !SLIDE
+# Avatars 
+## What are you working on?
+## <img src='file/images/postit-avatar.png' height='400'>
+
+!SLIDE
 # The Kanban - Limited WIP
 ## **WIP:** Work in Progress
 ## Assign a maximum capacity to the columns
